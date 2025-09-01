@@ -84,7 +84,7 @@ As a **Tech Lead Intern at Tinkerhub CEK**, I thrive in hackathons, events, and 
 ## 🎓 Education & Achievements  
 
 - **B.Tech in Computer Science Engineering** (2024–2028)  
-- **Tech Lead Intern @ Tinkerhub CEK**  
+- **Learning coordinator @ Tinkerhub CEK**  
 - **Hackathon Participant** – Tinkerhub & local competitions  
 - Learning **Python, Web Dev, Flutter, Dart & React Native**  
 
