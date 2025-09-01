@@ -96,7 +96,7 @@ As a **Tech Lead Intern at Tinkerhub CEK**, I thrive in hackathons, events, and 
   <a href="mailto:rsreehari091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/rsreehari">
+  <a href="https://www.linkedin.com/in/rsreehari0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="https://www.instagram.com/_r_sreehari">
