@@ -1,40 +1,40 @@
+<!-- HERO SECTION -->
 <div align="center">
-  <img height="170" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=R%20Sreehari&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35)
+  
+  <h3>🚀 Computer Science Engineering Student | Tech Explorer | Community Builder</h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=Coding+Ideas+into+Reality;Exploring+Cloud+and+Mobile+Apps;Building+Communities;Hackathon+Learner+%26+Doer"/>
 </div>
-
-<h1 align="center">Hi, I'm R Sreehari</h1>
-<h3 align="center">Computer Science Engineering Student | Tech Explorer | Community Builder</h3>
-
-<p align="center">
-  Coding • Cloud • Mobile Apps • Web • Community  
-</p>
 
 ---
 
 ## 🌀 My Reasoning  
 
-I’m R Sreehari — a CSE student exploring how ideas can turn into stories written in logic.  
+I’m **R Sreehari** — a CSE student passionate about turning ideas into working products.  
 
-From Python scripts and AI desktop assistants to Flutter, Dart, and React Native MVPs at **TinkerSpace**, my journey has always been about *building, breaking, and learning*.  
-As a **Tech Lead Intern at Tinkerhub CEK**, I’ve embraced hackathons, community events, and collaborative projects.  
+From **Python scripts** and **AI desktop assistants** to **React Native MVPs at TinkerSpace**, my journey is about *building, experimenting, and growing with communities*.  
+As a **Tech Lead Intern at Tinkerhub CEK**, I thrive in hackathons, events, and collaborative projects.  
 
-For me, coding is like storytelling: every algorithm has rhythm, every bug a plot twist, and every project a new chapter.  
-If code is poetry, I’m just here writing verses until the story makes sense.  
+> 💡 *“If code is poetry, I’m just here writing verses until the story makes sense.”*  
 
 ---
 
 ## ⚙️ Tech Stack  
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 ---
@@ -42,42 +42,41 @@ If code is poetry, I’m just here writing verses until the story makes sense.
 ## 🚀 Current Focus  
 
 - Building **React Native MVPs** at TinkerSpace  
-- Improving **Desktop Assistant** (weather, navigation & speech recognition)  
-- Developing a **Portfolio Website** to showcase my work  
-- Exploring **Cloud Computing** (AWS & Azure)  
-- Growing through **hackathons & community projects**  
+- Enhancing my **AI Desktop Assistant** (weather, navigation, speech recognition)  
+- Developing a **Portfolio Website**  
+- Exploring **Cloud Computing (AWS & Azure)**  
+- Sharpening skills through **hackathons & projects**  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Stats Dashboard  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsreehari&show_icons=true&theme=radical&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rsreehari&layout=compact&theme=radical&hide_border=false" height="150"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsreehari&show_icons=true&theme=radical&hide_border=false&border_radius=10)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsreehari&layout=compact&theme=radical&hide_border=false&border_radius=10)  
+
+![Streak](https://streak-stats.demolab.com?user=rsreehari&theme=radical&hide_border=false&border_radius=10)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=rsreehari&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsreehari&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true)  
+
 </div>
 
 ---
 
-## 🔥 Streaks  
+## 🌟 Featured Projects  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rsreehari&theme=radical&hide_border=false" height="200"/>
-</div>
 
----
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🖥 Desktop Assistant](https://github.com/rsreehari) | AI assistant with weather, speech, and navigation | Python |
+| [📚 Codex](https://github.com/rsreehari) | Udemy-like learning platform | HTML, CSS, JS |
+| [🌐 Portfolio](https://github.com/rsreehari) | Personal portfolio website | JS, Tailwind |
+| [📱 MVP (TinkerSpace)](https://github.com/rsreehari) | React Native prototype | React Native |
 
-## 🏆 GitHub Trophies  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rsreehari&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</div>
-
----
-
-## 📈 Contribution Graph  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsreehari&theme=github-compact&bg_color=0d1117&color=9e4c98&line=00b3ff&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -97,7 +96,7 @@ If code is poetry, I’m just here writing verses until the story makes sense.
   <a href="mailto:rsreehari091@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/rsreehari0">
+  <a href="https://www.linkedin.com/in/rsreehari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
   <a href="https://www.instagram.com/_r_sreehari">
@@ -107,18 +106,10 @@ If code is poetry, I’m just here writing verses until the story makes sense.
 
 ---
 
-## Fun Corner  
-
-> "Great code should narrate the journey of problem-solving and innovation."  
-
-Interests:  
-- Gaming & interactive storytelling  
-- Film analysis & narratives  
-- Exploring new technologies  
-- Staying active & exploring places  
-
----
-
 <div align="center">
-  ✨ Always learning. Always building. Always exploring. ✨
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer)
+
+✨ Always learning. Always building. Always exploring. ✨  
+
 </div>
