@@ -52,8 +52,8 @@ If code is poetry, I’m just here writing verses until the story makes sense.
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsreehari0&show_icons=true&theme=radical&hide_border=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rsreehari0&layout=compact&theme=radical&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rsreehari&show_icons=true&theme=radical&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rsreehari&layout=compact&theme=radical&hide_border=false" height="150"/>
 </div>
 
 ---
@@ -61,7 +61,7 @@ If code is poetry, I’m just here writing verses until the story makes sense.
 ## 🔥 Streaks  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rsreehari0&theme=radical&hide_border=false" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=rsreehari&theme=radical&hide_border=false" height="200"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@ If code is poetry, I’m just here writing verses until the story makes sense.
 ## 🏆 GitHub Trophies  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rsreehari0&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rsreehari&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@ If code is poetry, I’m just here writing verses until the story makes sense.
 ## 📈 Contribution Graph  
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsreehari0&theme=github-compact&bg_color=0d1117&color=9e4c98&line=00b3ff&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsreehari&theme=github-compact&bg_color=0d1117&color=9e4c98&line=00b3ff&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
