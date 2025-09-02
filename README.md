@@ -82,14 +82,14 @@ As a **Tech Lead Intern at Tinkerhub CEK**, I thrive in hackathons, events, and 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsreehari&show_icons=true&theme=radical&hide_border=false&border_radius=10)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsreehari&layout=compact&theme=radical&hide_border=false&border_radius=10)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsreehari&show_icons=true&theme=radical&hide_border=false&border_radius=10&v=1)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsreehari&layout=compact&theme=radical&hide_border=false&border_radius=10&v=1)  
 
-![Streak](https://streak-stats.demolab.com?user=rsreehari&theme=radical&hide_border=false&border_radius=10)  
+![Streak](https://streak-stats.demolab.com?user=rsreehari&theme=radical&hide_border=false&border_radius=10&v=1)  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=rsreehari&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=rsreehari&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10&v=1)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsreehari&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rsreehari&theme=react-dark&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true&v=1)  
 
 </div>
 
