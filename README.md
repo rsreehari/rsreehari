@@ -32,19 +32,23 @@
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Languages I Know
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,dart,html,css" alt="Languages"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🚀 Mobile & Web Development  
+### 🚀 Frameworks & Tools I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nodejs" alt="Development"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,firebase" alt="Tools"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 </div>
@@ -54,12 +58,12 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rsreehari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rsreehari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsreehari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsreehari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsreehari&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=rsreehari&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7"/>
 </div>
 
 <div align="center">
@@ -76,16 +80,16 @@
 
 ### 🔥 Building
 - **React Native MVPs** at TinkerSpace
-- **AI Desktop Assistant** with advanced features
-- **Personal Portfolio** with modern design
+- **AI Desktop Assistant** with Python
+- **Personal Portfolio** website
 - **Community Projects** at Tinkerhub CEK
 
 </td>
 <td width="50%">
 
 ### 📚 Learning
-- **Cloud Computing** (AWS & Azure)
-- **Advanced React Native** patterns
+- **Advanced Python** techniques
+- **Mobile App Development** patterns
 - **AI/ML** fundamentals
 - **System Design** principles
 
@@ -103,7 +107,7 @@
 |------------|----------------|---------------|-----------|
 | [🤖 AI Desktop Assistant](https://github.com/rsreehari) | Smart assistant with weather, speech & navigation | `Python` `AI` `APIs` | 🔥 Active |
 | [📚 Codex Learning Platform](https://github.com/rsreehari) | Interactive e-learning platform | `HTML` `CSS` `JavaScript` | ✅ Complete |
-| [🌐 Portfolio Website](https://github.com/rsreehari) | Modern responsive portfolio | `JS` `Tailwind` `Animations` | 🚧 In Progress |
+| [🌐 Portfolio Website](https://github.com/rsreehari) | Modern responsive portfolio | `JavaScript` `CSS` | 🚧 In Progress |
 | [📱 TinkerSpace MVP](https://github.com/rsreehari) | Mobile app prototype | `React Native` `Firebase` | 🔥 Active |
 
 </div>
@@ -112,5 +116,52 @@
 
 ## 🎓 Journey & Achievements
 
-<div align="center">
+**🏆 Highlights:**
+- 🎓 **B.Tech Computer Science Engineering** (2024–2028)
+- 👨‍💼 **Tech Lead Intern @ Tinkerhub CEK**  
+- 🏅 **Active Hackathon Participant** – Multiple competitions
+- 🌟 **Community Builder** – Organizing tech events & workshops
+- 💡 **10+ Projects** built and deployed
 
+**🔥 Current Learning Path:**
+- Mastering **Python** for AI and automation
+- Building **React Native** mobile apps
+- Creating **Flutter** cross-platform apps
+- Exploring **JavaScript** web development
+
+---
+
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+  
+  <h3>💬 Always open to interesting conversations and collaboration opportunities!</h3>
+  
+  <p>
+    <a href="mailto:rsreehari091@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rsreehari0">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/_r_sreehari">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://github.com/rsreehari">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <h4>📧 Drop me a line: <code>rsreehari091@gmail.com</code></h4>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  
+  <h3>✨ "Code. Create. Collaborate. Repeat." ✨</h3>
+  
+  **Thanks for visiting! Star ⭐ some repos if you find them interesting!**
+</div>
