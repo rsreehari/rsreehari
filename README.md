@@ -47,22 +47,6 @@
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|--------|-------------|-----------|--------|
-| [🤖 AI Desktop Assistant](https://github.com/rsreehari) | Desktop assistant with speech, weather and quick actions | `Python` `APIs` | 🔥 Active |
-| [📚 Codex Learning Platform](https://github.com/rsreehari) | Interactive e-learning web platform | `HTML` `CSS` `JavaScript` | ✅ Complete |
-| [🌐 Portfolio Website](https://github.com/rsreehari) | Personal portfolio & blog | `JavaScript` `CSS` | 🚧 In Progress |
-| [📱 TinkerSpace MVP](https://github.com/rsreehari) | Mobile MVP for community projects | `React Native` `Firebase` | 🔥 Active |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
